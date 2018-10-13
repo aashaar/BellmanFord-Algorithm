@@ -1,0 +1,19 @@
+Write a program to implement Belman Gotd Algorithm:
+
+1. run on the following data:
+
+    # of nodes 5   s 1 2 3 4
+
+  edges with weights -
+
+      S->t = 6;  S->y = 7
+
+     t->x = 5; t->y = 8; t->z = -5
+
+     x->t = -2
+
+    y->x = -3; y->z = 9
+
+   z->x = 7; z->s = 2
+
+2. Repeat the above exercise change y->x = -2;
